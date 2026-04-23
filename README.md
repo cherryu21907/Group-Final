@@ -10,7 +10,7 @@ Sandy McCann-Parker SMM546@pitt.edu "sandy_notebook.ipynb"
 
 Datasets:
 
-Cherry- https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard/resource/bd41992a-987a-4cca-8798-fbe1cd946b07
+Cherry- https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard/resource/bd41992a-987a-4cca-8798-fbe1cd946b07 "This dataset includes Pittsburgh Bureau of Police crime incidents. The Monthly Criminal Activity Dashboard is given"
 
 Evan- https://data.wprdc.org/dataset/condemned-properties/resource/0a963f26-eb4b-4325-bbbc-3ddf6a871410 "Property dataset Contains data of neighborhoods and some property type (mainly condemned) and if in current testing they failed or passes inspections."
 
