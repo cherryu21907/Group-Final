@@ -14,7 +14,7 @@ Cherry- https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard/resou
 
 Evan- https://data.wprdc.org/dataset/condemned-properties/resource/0a963f26-eb4b-4325-bbbc-3ddf6a871410 "Property dataset Contains data of neighborhoods and some property type (mainly condemned) and if in current testing they failed or passes inspections."
 
-Abhinav- https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f "DESCRIPTION"
+Abhinav- https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f "Arrest Record statistics for City of Pittsburgh"
 
 Sandy- https://data.wprdc.org/dataset/city-trees/resource/1515a93c-73e3-4425-9b35-1cd11b2196da "Trees cared for and managed by the City of Pittsburgh Department of Public Works Forestry Division."
 
